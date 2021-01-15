@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<options>
+	<option>availablity</option>
+	<option>brand</option>
+	<option>model</option>
+	<option>model_year</option>
+	<option>mileage</option>
+	<option>fuel_type</option>
+	<option>seats</option>
+	<option>price_per_day</option>
+	<option>description</option>
+</options>
+<cars category='sedan'>
+	<row>
+		<car id=''>
+			<availablity>Y</availablity>
+			<brand>Audi</brand>
+			<model>A6</model>
+			<model_year>2015</model_year>
+			<mileage>20000 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>180</price_per_day>
+			<description>good</description>
+		</car>
+	</row>
+	<row>
+		<car id=''>
+			<availablity>N</availablity>
+			<brand>Audi</brand>
+			<model>A4</model>
+			<model_year>2017</model_year>
+			<mileage>58000 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>150</price_per_day>
+			<description>good</description>
+		</car>
+	</row>
+	<row>
+		<car id=''>
+			<availablity>Y</availablity>
+			<brand>Audi</brand>
+			<model>A8</model>
+			<model_year>2019</model_year>
+			<mileage>43000 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>250</price_per_day>
+			<description>good</description>
+		</car>
+	</row>
+	<row>
+		<car id=''>
+			<availablity>Y</availablity>
+			<brand>Aldi</brand>
+			<model>S3</model>
+			<model_year>2017</model_year>
+			<mileage>73000 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>210</price_per_day>
+			<description>medium</description>
+		</car>
+	</row>
+</cars>
+<cars category='wagon'>
+	<row>
+		<car id=''>
+			<availablity>Y</availablity>
+			<brand>Aldi</brand>
+			<model>RS4</model>
+			<model_year>2017</model_year>
+			<mileage>13000 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>290</price_per_day>
+			<description>good</description>
+		</car>
+	</row>
+	<row>
+		<car id=''>
+			<availablity>N</availablity>
+			<brand>Aldi</brand>
+			<model>RS6</model>
+			<model_year>2016</model_year>
+			<mileage>13000 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>290</price_per_day>
+			<description>good</description>
+	 	</car>
+	 </row>
+	 <row>
+		<car id=''>
+			<availablity>Y</availablity>
+			<brand>Aldi</brand>
+			<model>A4 Allroad quattro</model>
+			<model_year>2017</model_year>
+			<mileage>49100 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>320</price_per_day>
+			<description>good</description>
+		</car>
+	</row>
+	<row>
+		<car id=''>
+			<availablity>Y</availablity>
+			<brand>Aldi</brand>
+			<model>A6 Allroad quattro</model>
+			<model_year>2019</model_year>
+			<mileage>11300 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>340</price_per_day>
+			<description>good</description>
+		</car>
+	</row>
+</cars>
+<cars category='suv'>
+	<row>
+		<car id=''>
+			<availablity>N</availablity>
+			<brand>Aldi</brand>
+			<model>Q3</model>
+			<model_year>2014</model_year>
+			<mileage>89100 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>260</price_per_day>
+			<description>medium</description>
+		</car>
+	</row>
+	<row>
+		<car id=''>
+			<availablity>Y</availablity>
+			<brand>Aldi</brand>
+			<model>Q5</model>
+			<model_year>2017</model_year>
+			<mileage>35500 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>5</seats>
+			<price_per_day>320</price_per_day>
+			<description>good</description>
+		</car>
+	</row>
+	<row>
+		<car id=''>
+			<availablity>Y</availablity>
+			<brand>Aldi</brand>
+			<model>Q7</model>
+			<model_year>2018</model_year>
+			<mileage>20000 kms</mileage>
+			<fuel_type>petrol</fuel_type>
+			<seats>7</seats>
+			<price_per_day>400</price_per_day>
+			<description>medium</description>
+		</car>
+	</row>
+</cars>
+</data>
